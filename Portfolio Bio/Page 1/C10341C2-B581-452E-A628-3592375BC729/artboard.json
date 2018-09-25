@@ -42,23 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "09D8E4DB-F841-4864-B65C-8B7A6D05BA18"
     },
     {
-      "class": "shapeGroup",
-      "id": "605E71B1-4E80-4AA9-B432-00CF76398553"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2A5CA89F-44FC-46F7-A692-C9DC6554149C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "4110A872-644B-499D-BB5C-2EFCB2CF70C4"
+      "class": "bitmap",
+      "id": "7C7E7E0E-9878-4A07-B9F4-9BCF2536655E"
     }
   ],
   "name": "Mood board collage",
