@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-DemiBold",
-              "size": 20
+              "size": 16
             }
           },
           "kerning": 0,
@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 961,
         "location": 0
       }
     ],
-    "string": "300 word bio"
+    "string": "I was born and raised in Volcano, HI and moved to Washington to attend Eastern Washington University (EWU). In 2019 I graduated from EWU with a BA in Visual Communication Deisgn with a User Experience (UX) Design certificate as well as an art minor. \n\nPreviosuly I have worked for AS Deigns and services in Hil, HI as their graphic design intern intermidently for a few years. I am currently the social meda manager for Kilauea Lodge. In coordinance to that I work in the Marketing and Communications Department at EWU as their Assistant Graphic Designer. I am also currently interning at Travis Pattern and Foundry as their graphic designer with the sole purpose of re-designing their catalog. \n\nAlthough I have gained a new outlook on many things and have gained to appreciate what the Pacific Northwest has to off I am ready to slowly make my way back home. Following EWU I plan to move back to Oahu, HI and purse a job in the UX or graphic design industry. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,9 +52,9 @@
     "height": 665,
     "width": 363,
     "x": 230,
-    "y": 80
+    "y": 84
   },
-  "glyphBounds": "{{0, 4}, {125, 17}}",
+  "glyphBounds": "{{-1, 3}, {363, 523}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "300 word bio",
+  "name": "I was born and raise",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -87,7 +87,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-DemiBold",
-            "size": 20
+            "size": 16
           }
         },
         "kerning": 0,
