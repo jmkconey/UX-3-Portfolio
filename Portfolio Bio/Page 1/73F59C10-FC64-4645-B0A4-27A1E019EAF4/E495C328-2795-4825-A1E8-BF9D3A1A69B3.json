@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3333333333333334,
-            "green": 0.5137254901960784,
-            "red": 0.5019607843137255
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-DemiBold",
+              "name": "AvenirNext-UltraLight",
               "size": 13
             }
           },
@@ -54,7 +54,7 @@
     "x": 219,
     "y": 77
   },
-  "glyphBounds": "{{-1, 3}, {363, 680}}",
+  "glyphBounds": "{{0, 3}, {361, 644}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -79,14 +79,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3333333333333334,
-          "green": 0.5137254901960784,
-          "red": 0.5019607843137255
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-DemiBold",
+            "name": "AvenirNext-UltraLight",
             "size": 13
           }
         },
