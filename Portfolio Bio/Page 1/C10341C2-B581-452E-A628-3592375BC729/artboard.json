@@ -45,24 +45,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "slice",
+      "id": "5A4A4D20-966F-4B10-B62B-BB2025F3A03D"
+    },
+    {
       "class": "bitmap",
       "id": "74734ED5-6775-4ADA-BFAB-D7EDED505F84"
     },
     {
       "class": "bitmap",
-      "id": "88DEE0EC-CCDF-4862-A0E3-59E4078B4F44"
-    },
-    {
-      "class": "bitmap",
-      "id": "1027EBA3-CD42-4911-8A97-5A3AB469F641"
-    },
-    {
-      "class": "bitmap",
-      "id": "DA141B50-5DC2-4BA3-BE03-6805C5A4F079"
-    },
-    {
-      "class": "bitmap",
-      "id": "7C7E7E0E-9878-4A07-B9F4-9BCF2536655E"
+      "id": "7F2B6113-00B4-4062-B605-739AB9471633"
     },
     {
       "class": "bitmap",
@@ -82,15 +74,11 @@
     },
     {
       "class": "bitmap",
-      "id": "4F0A4B10-CAE9-4F8D-8520-333BF7A90E26"
-    },
-    {
-      "class": "bitmap",
-      "id": "7F2B6113-00B4-4062-B605-739AB9471633"
-    },
-    {
-      "class": "bitmap",
       "id": "4B2C7F72-9EE5-4C72-B8F4-9B6832D6C118"
+    },
+    {
+      "class": "group",
+      "id": "9E77F7E7-0441-4A19-9DF5-13EC2F8F23DF"
     },
     {
       "class": "bitmap",
@@ -98,7 +86,7 @@
     },
     {
       "class": "bitmap",
-      "id": "6717A965-1388-4022-B653-17788552D73E"
+      "id": "DA141B50-5DC2-4BA3-BE03-6805C5A4F079"
     },
     {
       "class": "bitmap",
@@ -106,7 +94,15 @@
     },
     {
       "class": "bitmap",
-      "id": "34DFE314-91D6-4869-B65D-20127DB1C0A8"
+      "id": "88DEE0EC-CCDF-4862-A0E3-59E4078B4F44"
+    },
+    {
+      "class": "bitmap",
+      "id": "4F0A4B10-CAE9-4F8D-8520-333BF7A90E26"
+    },
+    {
+      "class": "bitmap",
+      "id": "6717A965-1388-4022-B653-17788552D73E"
     },
     {
       "class": "bitmap",
@@ -115,6 +111,10 @@
     {
       "class": "bitmap",
       "id": "464E1FD8-B845-4A35-99DE-E752FEDB7819"
+    },
+    {
+      "class": "bitmap",
+      "id": "3ACF7BA7-DC9C-4504-893A-5F568044345B"
     }
   ],
   "name": "Mood board collage",

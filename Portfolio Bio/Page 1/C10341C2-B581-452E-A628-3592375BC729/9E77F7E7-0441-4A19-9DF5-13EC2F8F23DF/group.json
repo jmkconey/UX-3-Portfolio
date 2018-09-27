@@ -1,8 +1,7 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "7C7E7E0E-9878-4A07-B9F4-9BCF2536655E",
+  "do_objectID": "9E77F7E7-0441-4A19-9DF5-13EC2F8F23DF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,28 +11,32 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 133,
-    "width": 212,
-    "x": 400,
-    "y": 0
+    "constrainProportions": false,
+    "height": 238,
+    "width": 238,
+    "x": 36,
+    "y": 344
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/5e7c9827b377fb083c07cb1a22811645a395f6ec.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "hawaiian-food-video",
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EC8A169E-290A-4E53-BAD1-2B99274D7C5B"
+    },
+    {
+      "class": "bitmap",
+      "id": "1027EBA3-CD42-4911-8A97-5A3AB469F641"
+    }
+  ],
+  "name": "download-8",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

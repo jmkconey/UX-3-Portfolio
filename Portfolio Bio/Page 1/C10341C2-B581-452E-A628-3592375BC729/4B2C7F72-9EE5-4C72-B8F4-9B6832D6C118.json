@@ -18,12 +18,12 @@
     "constrainProportions": true,
     "height": 185,
     "width": 399,
-    "x": 230,
+    "x": 232,
     "y": 373
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/5f2b04db2161e0cfee752934add783688f56bfcd.png",
+    "_ref": "images/e623c6a5a81773fe1360892d11a312125f0cc28c.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
