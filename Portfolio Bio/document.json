@@ -3,6 +3,27 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8470588235294118,
+        "green": 0.8470588235294118,
+        "red": 0.8470588235294118
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8470588235294118,
+        "green": 0.8470588235294118,
+        "red": 0.8470588235294118
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8470588235294118,
+        "green": 0.8470588235294118,
+        "red": 0.8470588235294118
+      }
     ],
     "gradients": [
     ],
@@ -28,12 +49,14 @@
     ]
   },
   "meta": {
-    "appVersion": "51.3",
-    "build": 57544,
-    "version": 105
+    "appVersion": "52.1",
+    "build": 67048,
+    "version": 112
   },
   "pages": [
-    "Page 1"
+    "Bio & Mood Board",
+    "Styles",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

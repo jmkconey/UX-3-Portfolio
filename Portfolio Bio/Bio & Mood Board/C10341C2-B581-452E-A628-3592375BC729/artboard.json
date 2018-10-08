@@ -1,0 +1,149 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C10341C2-B581-452E-A628-3592375BC729",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 792,
+    "width": 612,
+    "x": 991,
+    "y": 99
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "5A4A4D20-966F-4B10-B62B-BB2025F3A03D"
+    },
+    {
+      "class": "bitmap",
+      "id": "74734ED5-6775-4ADA-BFAB-D7EDED505F84"
+    },
+    {
+      "class": "bitmap",
+      "id": "7F2B6113-00B4-4062-B605-739AB9471633"
+    },
+    {
+      "class": "bitmap",
+      "id": "25FBAEFA-F5F0-4A97-AE5A-8F000F893761"
+    },
+    {
+      "class": "bitmap",
+      "id": "AEDD053F-0C6D-4B8F-BB40-47FF9C234774"
+    },
+    {
+      "class": "bitmap",
+      "id": "BB3712B5-5B09-4573-94D4-622522E42D21"
+    },
+    {
+      "class": "bitmap",
+      "id": "52C81C1C-F6AA-4A1A-89B7-F3602D86EA40"
+    },
+    {
+      "class": "bitmap",
+      "id": "4B2C7F72-9EE5-4C72-B8F4-9B6832D6C118"
+    },
+    {
+      "class": "group",
+      "id": "9E77F7E7-0441-4A19-9DF5-13EC2F8F23DF"
+    },
+    {
+      "class": "bitmap",
+      "id": "98252CD2-6B44-42EC-AFE5-850214C94577"
+    },
+    {
+      "class": "bitmap",
+      "id": "DA141B50-5DC2-4BA3-BE03-6805C5A4F079"
+    },
+    {
+      "class": "bitmap",
+      "id": "2DEF726E-61EC-42B1-8E0F-3D21AA1D17F5"
+    },
+    {
+      "class": "bitmap",
+      "id": "88DEE0EC-CCDF-4862-A0E3-59E4078B4F44"
+    },
+    {
+      "class": "bitmap",
+      "id": "4F0A4B10-CAE9-4F8D-8520-333BF7A90E26"
+    },
+    {
+      "class": "bitmap",
+      "id": "6717A965-1388-4022-B653-17788552D73E"
+    },
+    {
+      "class": "bitmap",
+      "id": "6E3F150D-C23F-4CF5-BD04-4D5261AA6479"
+    },
+    {
+      "class": "bitmap",
+      "id": "464E1FD8-B845-4A35-99DE-E752FEDB7819"
+    },
+    {
+      "class": "bitmap",
+      "id": "3ACF7BA7-DC9C-4504-893A-5F568044345B"
+    }
+  ],
+  "name": "Mood board collage",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 792,
+    "name": "Letter",
+    "offersLandscapeVariant": 1,
+    "width": 612
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8A7BFA2D-8D35-4BD4-8EB0-4C88E9D28C01",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A511F597-8D4D-4C66-BC09-64F04012CC83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C03F1ED-5C20-461C-B6C5-50CEE4B2597E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA5194D1-AB8A-40C2-8400-42598DC5560F",
+    "height": 564,
+    "width": 820,
+    "x": 0,
+    "y": 323
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A1341291-5D48-496F-8414-EE896F8024D7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "00B30BED-1397-4ECC-A195-A90D8D51A9DA"
+    },
+    {
+      "class": "text",
+      "id": "170C61D6-6D3D-4726-9281-CAF06AA238A4"
+    },
+    {
+      "class": "text",
+      "id": "DD7A5DB4-B652-4233-AECB-877403A0605A"
+    }
+  ],
+  "name": "Typography",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7382961E-3146-4B77-8CFD-26E364D81439",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FEC02CE1-C52B-415E-A7E2-02678A434758",
+    "guides": [
+    ]
+  }
+}
